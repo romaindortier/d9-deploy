@@ -3,7 +3,7 @@ langcode: en
 status: true
 dependencies: {  }
 id: local_dev
-label: local_dev
+label: 'Développement local'
 description: ''
 folder: config/local_dev
 module:
@@ -13,6 +13,7 @@ module:
   field_ui: 0
   menu_ui: 0
   views_ui: 0
+  webprofiler: 0
 theme: {  }
 blacklist: {  }
 graylist: {  }
