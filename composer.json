@@ -26,6 +26,7 @@
         "drupal/devel_generate": "^4.1",
         "drupal/mysql56": "^1.0@beta",
         "drupal/token": "^1.9",
+        "drupal/webform": "^6.0",
         "drush/drush": "^10.2",
         "kint-php/kint": "^3.3"
     },
