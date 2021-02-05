@@ -1,0 +1,10 @@
+uuid: 70a85f62-949d-4b75-a7db-54da237f2cd9
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+id: node.frontpage_teaser
+label: 'Frontpage teaser'
+targetEntityType: node
+cache: true

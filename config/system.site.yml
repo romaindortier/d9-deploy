@@ -1,0 +1,14 @@
+uuid: 244b10d6-2528-4166-a3ca-d3a6f1c29b0c
+name: 'Drupal 9 '
+mail: romain.dortier@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
